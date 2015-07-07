@@ -1,0 +1,2 @@
+/Users/douglassaldana/NMC/Coursera/Programming Mobile Applications for Android Handheld Systems Part 1/Week 3/Apps/PermissionsLab/app/build/intermediates/classes/debug
+/Users/douglassaldana/NMC/Coursera/Programming Mobile Applications for Android Handheld Systems Part 1/Week 3/Apps/PermissionsLab/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-51d7078abb6ba5147d734b8937004423cf0796f2.jar

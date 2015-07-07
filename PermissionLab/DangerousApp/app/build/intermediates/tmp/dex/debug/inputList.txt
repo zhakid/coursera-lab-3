@@ -1,0 +1,1 @@
+/Users/douglassaldana/NMC/Coursera/Programming Mobile Applications for Android Handheld Systems Part 1/Week 3/Apps/DangerousApp/app/build/intermediates/classes/debug
